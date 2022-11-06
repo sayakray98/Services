@@ -1,2 +1,2 @@
 # delivery
-Creative Pepsi Landing Page Using HTML, CSS &amp; JavaScript
+Creative delivery Using HTML, CSS &amp; JavaScript
